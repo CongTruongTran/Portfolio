@@ -3,6 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio1.png'
+import IMG4 from '../../assets/portfolio3.png'
+import IMG5 from '../../assets/portfolio4.png'
 
 const data = [
   {
@@ -25,6 +27,20 @@ const data = [
     title: 'Login Form',
     github: 'https://github.com/CongTruongTran/LoginPage',
     demo: 'https://congtruongtran.github.io/LoginPage/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Weather App',
+    github: 'https://github.com/CongTruongTran/Weather-App',
+    demo: 'https://congtruongtran.github.io/Weather-App/'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Weather App',
+    github: 'https://github.com/CongTruongTran/Portfolio',
+    demo: 'https://congtruongtran.github.io/Portfolio/'
   }
 ]
 
