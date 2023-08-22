@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me2.jpg'
 import {BsAward} from 'react-icons/bs'
 import {FiUsers} from 'react-icons/fi'
 import {BsFolder2Open} from 'react-icons/bs'
@@ -41,9 +41,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Consequatur odit veniam nihil atque enim repellat aliquid voluptate minus, 
-            quod quasi repellendus voluptatem dicta commodi eaque tempore explicabo nesciunt dolor cupiditate!
+            Today is hard, tomorrow will be worse but the day after tomorrow will be sunshine. – Jack Ma <br/>
+            Hôm nay khó khăn, ngày mãi sẽ còn tồi tệ hơn, nhưng ngày kia sẽ là nắng ấm. – Jack Ma
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk </a>

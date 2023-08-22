@@ -30,8 +30,8 @@ const Contact = () => {
           <article className='contact_option'>
             <MdOutlineEmail className='contact_option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>0866700150</h5>
-            <a href="https://api.whatsapp.com/send?phone+0866700150" target={'_blank'}>Send a message</a>
+            <h5>0762780603</h5>
+            <a href="https://api.whatsapp.com/send?phone+0762780603" target={'_blank'}>Send a message</a>
           </article>
         </div>
 

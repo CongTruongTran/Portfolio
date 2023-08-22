@@ -38,7 +38,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Weather App',
+    title: 'Portfolio',
     github: 'https://github.com/CongTruongTran/Portfolio',
     demo: 'https://congtruongtran.github.io/Portfolio/'
   }

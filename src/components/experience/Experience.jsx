@@ -38,6 +38,7 @@ const Experience = () => {
               <div>
                 <BsPatchCheckFill  className='experience_details-icon' />
                 <h4>React</h4>
+                <small className='text-light'>Basic</small>
               </div>
             </article>
                
@@ -52,7 +53,7 @@ const Experience = () => {
             <article className='experience_details'>
               <div>
                 <BsPatchCheckFill  className='experience_details-icon' />
-                <h4>PHP</h4>
+                <h4>PHP (Laravel 8.x)</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
